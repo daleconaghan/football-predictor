@@ -1,0 +1,32 @@
+date_predicted,match_date,home_team,away_team,predicted_result,confidence,prob_home,prob_draw,prob_away,actual_result,correct
+2025-12-27 21:28,2025-12-27,Chelsea,Aston Villa,H,0.502,0.502,0.238,0.26,A,False
+2025-12-27 22:03,2025-12-26,Man United,Newcastle,H,0.629,0.629,0.138,0.232,H,True
+2025-12-27 22:03,2025-12-27,Nott'm Forest,Man City,A,0.819,0.06,0.121,0.819,A,True
+2025-12-27 22:03,2025-12-27,Arsenal,Brighton,H,0.687,0.687,0.156,0.157,H,True
+2025-12-27 22:03,2025-12-27,Brentford,Bournemouth,H,0.508,0.508,0.264,0.228,H,True
+2025-12-27 22:03,2025-12-27,Burnley,Everton,A,0.499,0.301,0.2,0.499,D,False
+2025-12-27 22:03,2025-12-27,Liverpool,Wolves,H,0.77,0.77,0.116,0.114,H,True
+2025-12-27 22:04,2025-12-27,West Ham,Fulham,A,0.498,0.31,0.192,0.498,A,True
+2025-12-27 22:04,2025-12-27,Chelsea,Aston Villa,A,0.448,0.305,0.247,0.448,A,True
+2025-12-27 22:04,2025-12-28,Sunderland,Leeds,H,0.561,0.561,0.159,0.28,D,False
+2025-12-27 22:04,2025-12-28,Crystal Palace,Tottenham,A,0.403,0.39,0.206,0.403,A,True
+2025-12-28 18:39,A,Burnley,Newcastle,A,0.69,0.187,0.124,0.69,A,True
+2025-12-28 18:39,H,Chelsea,Bournemouth,H,0.501,0.501,0.241,0.258,D,False
+2025-12-28 18:39,H,Nott'm Forest,Everton,H,0.382,0.382,0.261,0.356,A,False
+2025-12-28 18:39,H,West Ham,Brighton,H,0.374,0.374,0.264,0.362,D,False
+2025-12-28 18:39,H,Arsenal,Aston Villa,H,0.567,0.567,0.223,0.21,H,True
+2025-12-28 18:39,H,Man United,Wolves,H,0.556,0.556,0.204,0.24,D,False
+2025-12-28 18:39,A,Crystal Palace,Fulham,A,0.425,0.369,0.206,0.425,D,False
+2025-12-28 18:39,H,Liverpool,Leeds,H,0.691,0.691,0.104,0.204,D,False
+2025-12-28 18:39,H,Brentford,Tottenham,H,0.449,0.449,0.262,0.289,D,False
+2025-12-28 18:39,A,Sunderland,Man City,A,0.556,0.167,0.277,0.556,D,False
+2026-01-04 22:26,H,West Ham,Nott'm Forest,H,0.41,0.41,0.312,0.278,A,False
+2026-01-04 22:26,H,Bournemouth,Tottenham,H,0.362,0.362,0.32,0.318,H,True
+2026-01-04 22:26,H,Brentford,Sunderland,H,0.613,0.613,0.185,0.201,H,True
+2026-01-04 22:26,A,Crystal Palace,Aston Villa,A,0.48,0.264,0.256,0.48,D,False
+2026-01-04 22:26,H,Everton,Wolves,H,0.456,0.456,0.289,0.255,D,False
+2026-01-04 22:26,H,Fulham,Chelsea,H,0.483,0.483,0.315,0.202,H,True
+2026-01-04 22:26,H,Man City,Brighton,H,0.661,0.661,0.265,0.074,D,False
+2026-01-04 22:29,A,Burnley,Man United,A,0.612,0.286,0.102,0.612,D,False
+2026-01-04 22:29,H,Newcastle,Leeds,H,0.53,0.53,0.242,0.228,H,True
+2026-01-04 22:29,H,Arsenal,Liverpool,H,0.66,0.66,0.231,0.109,,
